@@ -1,0 +1,71 @@
+Student Name Ajinkya Ravindra Wagh 
+Batch: 7PM batch 
+Date 8/10/2026
+
+AI AWARENESS QUIZ - PART 2 
+50 One-Word / One-Sentence Questions AI Models | Tools | Developer AI | Image/Video/Speech AI | Hardware | Safety | Responsible AI 
+
+Section A – AI Companies, Models & Tools
+
+1. Meta
+2. Google
+3. Anthropic
+4. xAI
+5. Mistral AI
+6. OpenAI
+7. Videos
+8. Google
+9. Making AI images
+10. Writing and completing code
+
+Section B – Generative AI Concepts
+
+11. Large Language Model
+12. AI that can create new content like text, images, audio or videos.
+13. An instruction given to AI.
+14. Instructions given to AI about how it should behave.
+15. AI that can work with different types of data like text, images and audio.
+16. When AI gives a wrong or made-up answer.
+17. Small pieces of text processed by an AI model.
+18. The amount of information an AI can handle at one time.
+19. Using a trained AI model to get an answer.
+20. Training an already trained model for a specific task.
+
+Section C – AI for Developers & Applications
+
+21. An AI system that can perform tasks and use tools.
+22. A chatbot mainly gives answers, while an AI agent can also perform tasks.
+23. It allows AI to use external tools or functions.
+24. Model Context Protocol
+25. To access and authenticate an AI service.
+26. A limit on the number of API requests in a given time.
+27. AI code editor
+28. Working with documents using AI.
+29. Searching based on the meaning of the query.
+30. Coding, debugging and writing documentation.
+
+Section D – Image, Video, Speech, Models & Hardware
+
+31. Converting speech into text.
+32. Converting text into speech.
+33. Text from an image.
+34. An AI model that can understand images.
+35. Creating videos from text prompts.
+36. Generating images and videos.
+37. Because GPUs can do many calculations at the same time.
+38. Neural Processing Unit
+39. AI model data and calculations.
+40. Running an AI model on your own computer or device.
+
+Section E – Advanced Awareness, Safety & Responsible AI
+
+41. A model whose weights are available to the public.
+42. Training a smaller model to learn from a bigger model.
+43. For efficiently fine-tuning AI models.
+44. Mixture of Experts
+45. A test used to compare AI model performance.
+46. A safety control used in an AI system.
+47. Trying to manipulate an AI using harmful or hidden instructions.
+48. Personally Identifiable Information
+49. Because it can cause privacy and security problems.
+50. Check the answer with reliable sources before using it.
