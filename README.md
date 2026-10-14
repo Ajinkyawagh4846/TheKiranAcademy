@@ -1,98 +1,57 @@
 
-# The Kiran Academy — Internship & Incubation Scholarship Program
+# The Kiran Academy | Internship & Incubation Scholarship Program
 
-Welcome to my learning and development repository for the **3-month Internship & Incubation Scholarship Program at The Kiran Academy**.
+Welcome to my GitHub repository documenting my technical journey throughout the **3-month Internship & Incubation Scholarship Program at The Kiran Academy**.
 
-This repository documents my technical assignments, programming practice, problem-solving approach, and progress throughout the program. Each task is organized to make my code, implementation, and learning journey easy to follow.
+This repository serves as a collection of my practical work, programming assignments, exercises, and projects completed during the program. It reflects my continuous learning, hands-on experience, and progress in software development.
 
 ## About the Program
 
-I am participating in this program as part of my journey toward becoming a better software developer. My focus is on strengthening programming fundamentals, writing clean and understandable code, completing assigned tasks, and building consistent hands-on experience.
-
-**Program:** Internship & Incubation Scholarship Program  
-**Organization:** The Kiran Academy  
-**Duration:** 3 Months  
-**Focus:** Programming, Practical Assignments, and Technical Skill Development
+- **Organization:** The Kiran Academy
+- **Program:** Internship & Incubation Scholarship Program
+- **Duration:** 3 Months
+- **Focus:** Programming, Problem Solving, and Practical Skill Development
 
 ## Objectives
 
-- Strengthen programming fundamentals through practical assignments.
-- Implement solutions using Java and Python wherever required.
-- Improve problem-solving and logical thinking.
-- Follow good coding practices and write readable, maintainable code.
-- Use Git and GitHub to track and submit my work.
-- Build a consistent portfolio of completed assignments and learning milestones.
+- Strengthen programming fundamentals and logical thinking.
+- Develop practical problem-solving skills.
+- Write clean, readable, and maintainable code.
+- Gain hands-on experience through technical assignments and projects.
+- Follow good coding practices and test solutions against requirements.
+- Use Git and GitHub for version control and maintaining a record of my work.
+- Continuously improve my technical knowledge and development skills.
 
-## Technology Stack
+## Technologies & Tools
 
-- **Languages:** Python, Java
-- **Version Control:** Git
-- **Code Repository:** GitHub
-- **Development Environment:** Visual Studio Code
+This repository may include work involving programming languages, development tools, frameworks, libraries, and technologies introduced throughout the program.
 
-Additional technologies and tools will be added as I progress through the program.
+## Repository Contents
 
-## Repository Structure
+The repository contains technical assignments, coding exercises, practical implementations, and projects completed as part of the program. The structure and contents will evolve as new work is added.
 
-```text
-TheKiranAcademy/
-├── README.md
-├── shopping_bill.py
-└── [Additional task files will be added here]
-```
+Each submission is maintained with a focus on clarity, correctness, and understanding the concepts behind the implementation.
 
-The repository structure will evolve as new assignments and projects are completed.
+## Development Approach
 
-## Tasks & Progress
-
-| Task | Description | Status |
-|---|---|---|
-| Task 01 | Shopping Bill — GST Calculation and Discount | Completed — Python |
-| Upcoming Tasks | Future assignments and practical exercises | In Progress |
-
-Each completed task will include its source code and, where useful, sample outputs or documentation.
-
-## How to Run
-
-### Python
-
-Make sure Python is installed on your system.
-
-```bash
-python shopping_bill.py
-```
-
-### Java
-
-For Java assignments, compile and run the relevant source file using the Java Development Kit (JDK).
-
-```bash
-javac FileName.java
-java FileName
-```
-
-Replace `FileName` with the actual Java class name.
-
-## My Approach
-
-For every assignment, I aim to:
+My approach to each assignment or project is to:
 
 1. Understand the problem statement and requirements.
-2. Break the problem into smaller steps.
-3. Implement the solution using the required programming language.
-4. Test the output against the expected result.
-5. Commit and push the relevant files to GitHub.
-6. Document important learnings and improvements.
+2. Plan the solution and break it into manageable steps.
+3. Implement the solution using the required technologies.
+4. Test and verify the implementation.
+5. Maintain and submit the work through GitHub.
+6. Learn from each task and apply those learnings to future work.
 
-## Learning Journey
+## Learning & Growth
 
-This repository will serve as a record of my progress throughout the program, from foundational programming tasks to more advanced exercises and projects.
+This repository represents my commitment to consistent learning, practical implementation, and continuous improvement throughout the program.
 
-My goal is not just to complete assignments, but to understand the logic behind each solution and become more confident in writing code independently.
+My goal is to build a strong technical foundation, improve my problem-solving abilities, and develop the skills required to contribute effectively to real-world software development projects.
 
 ---
 
-**Program:** The Kiran Academy — Internship & Incubation Scholarship Program  
-**Maintained by:** Ajinkya Ravindra Wagh
+**Maintained by:** Ajinkya Ravindra Wagh  
+**Organization:** The Kiran Academy
 
-*Learning consistently. Building practically. Improving with every task.*
+*Learn continuously. Build consistently. Improve with every iteration.*
